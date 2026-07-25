@@ -105,6 +105,4 @@ This project started from an open-source RAG chatbot tutorial and was extended w
 - Automated evaluation suite (test known Q&A pairs for retrieval/answer accuracy)
 - Deployment to Streamlit Community Cloud
 
-## Acknowledgements
 
-Built on top of an open-source RAG chatbot tutorial by [AIwithhassan](https://github.com/AIwithhassan/medical-chatbot), extended with the customizations described above.
